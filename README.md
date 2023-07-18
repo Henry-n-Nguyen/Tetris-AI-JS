@@ -19,3 +19,10 @@ Tetris-AI-JS is an implementation of the classic game Tetris using JavaScript, w
 
    ```bash
    git clone https://github.com/your-username/Tetris-AI-JS.git
+
+2. Open the project folder:
+
+   ```bash
+   cd Tetris-AI-JS
+
+4. Open __index.html__ in your preferred web browser.
