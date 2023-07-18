@@ -1,0 +1,30 @@
+/* Global Css */
+* {
+  font-family: "Press Start 2P", cursive;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 400px 200px;
+  justify-content: center;
+}
+
+.right-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.game-board {
+  border: solid 2px;
+}
+
+/* Main body CSS */
+.play-button {
+  background-color: #4caf50;
+  font-size: 16px;
+  padding: 15px 30px;
+  cursor: pointer;
+}
+
+

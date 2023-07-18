@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <link
+      href="https://fonts.googleapis.com/css?family=Press+Start+2P"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <!-- Main body -->
+    <div class="grid">
+      <canvas id="board" class="game-board"></canvas>
+      <div class="right-column">
+        <div>
+          <h1>TETRIS</h1>
+          <p>Score: <span id="score">0</span></p>
+          <p>Lines: <span id="lines">0</span></p>
+          <p>Level: <span id="level">0</span></p>
+          <canvas id="next" class="next"></canvas>
+        </div>
+        <div>
+            <div style="margin-bottom: 10px">
+                <button onclick="turnLeft()" style="font-size: 16px; padding: 15px 30px; cursor: pointer; width: 46%;"><</button>
+                <button onclick="turnRight()" style="font-size: 16px; padding: 15px 30px; cursor: pointer; width: 46%;">></button>
+            </div>
+            <button onclick="play()" class="play-button" style="width: 100%;">Play</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Js function -->
+    <script type="text/javascript" src="./js/constants.js"></script>
+    <script type="text/javascript" src="./js/board.js"></script>
+    <script type="text/javascript" src="./js/piece.js"></script>
+    <script type="text/javascript" src="./js/main.js"></script>
+
+  </body>
+</html>
