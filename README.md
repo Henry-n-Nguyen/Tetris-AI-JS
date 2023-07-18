@@ -2,7 +2,7 @@
 
 Tetris-AI-JS is an implementation of the classic game Tetris using JavaScript, with an added artificial intelligence component that can play the game autonomously. This project aims to showcase the development of an AI algorithm capable of making intelligent decisions to maximize the player's score in Tetris.
 
-[Tetris-AI-JS](https://your-image-url.com)
+[Tetris-AI-JS]
 
 ## Features
 
@@ -65,5 +65,5 @@ This project is licensed under the [MIT License](https://github.com/git/git-scm.
 
 ## Contact
 
-- If you have any questions, suggestions, or issues regarding Tetris-AI-JS, please feel free to contact the project maintainer directly at <u>henrynnguyen02@gmail.com</u>
+- If you have any questions, suggestions, or issues regarding Tetris-AI-JS, please feel free to contact the project maintainer directly at [henrynnguyen02@gmail.com](https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRlQHcrkPNmbbZRtKSshRfLsbFgSjRjTCNgSHnjKjBmdFtNkFhhtzmHpQCpLZbmCfQwWxrg)
 - Thank you for checking out Tetris-AI-JS! Have fun playing or watching the AI in action!
